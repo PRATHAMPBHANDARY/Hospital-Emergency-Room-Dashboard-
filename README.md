@@ -31,7 +31,7 @@ Identifies trends and drops in satisfaction for timely action.
 
 
 
-
+![image alt](https://github.com/PRATHAMPBHANDARY/Hospital-Emergency-Room-Dashboard-/blob/5e9ac00af38d5168e16d4b5f91073a7a98a1d3c8/Screenshot%202025-08-15%20211109.png)
 
 ---
 
