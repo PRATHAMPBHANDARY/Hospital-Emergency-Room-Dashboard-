@@ -1,4 +1,4 @@
-🏥 Hospital Emergency Room Dashboard
+🏥Hospital Emergency Room Dashboard
 
 This Excel dashboard provides an analytical view of hospital emergency room performance, focusing on patient volume, waiting times, and service quality. It enables quick decision-making to improve operational efficiency and patient experience.
 
@@ -31,7 +31,7 @@ Identifies trends and drops in satisfaction for timely action.
 
 
 
-![image alt](https://github.com/PRATHAMPBHANDARY/Hospital-Emergency-Room-Dashboard-/blob/0f368897cfc729d2f5d0fbeab5f291d577a76134/Screenshot%202025-08-16%20193859.png)
+![image alt](https://github.com/PRATHAMPBHANDARY/Hospital-Emergency-Room-Dashboard-/blob/18801ff14f1ff675e258eb7bf6f26597b1cbca9b/Screenshot%202025-08-16%20222116.png)
 
 ---
 
